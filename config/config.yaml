@@ -1,0 +1,11 @@
+data:
+  raw_data_path: 'data/raw/sp500.csv'
+  processed_data_path: 'data/processed/sp500_features.csv'
+
+model:
+  output_path: 'models/random_forest_model.pkl'
+  n_estimators: 100
+  random_state: 42
+
+results:
+  predictions_path: 'results/predictions/sp500_predictions.csv'
