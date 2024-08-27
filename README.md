@@ -30,6 +30,3 @@ This project predicts the closing price of the S&P 500 index using machine learn
 
 The model can be used to predict future prices by running the `predict.py` script. The results will be saved in the `results/predictions/` directory.
 
-## License
-
-MIT License
