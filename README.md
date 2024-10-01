@@ -1,6 +1,5 @@
 # S&P 500 Prediction Project
 
-This project predicts the closing price of the S&P 500 index using machine learning techniques.
 
 ## Project Structure
 
